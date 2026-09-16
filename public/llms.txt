@@ -1,0 +1,89 @@
+# Waitlist Lab
+
+> Waitlist Lab (also known as Wait List Lab or Weightless Lab) is an all-in-one marketing and CRM platform built for education and training businesses. It replaces 14+ disconnected tools — website builder, sales funnels, email marketing, SMS marketing, booking, courses, reputation management, and analytics — into one unified system starting at $97/month.
+
+## What We Do
+
+Waitlist Lab helps education and training businesses generate leads, nurture prospects, convert students, deliver orders and courses, retain clients, and turn happy customers into advocates. The platform is organized into nine product categories covering the entire student lifecycle:
+
+1. **Lead Generation** — SEO Manager, Content Planner, Social Planner, Ads Manager, Prospecting, Listings
+2. **Lead Capture** — Website Builder, Forms, Surveys, Chat Widgets
+3. **Lead Engagement** — Chat Widgets, Messaging Automation, AI Chatbots
+4. **Nurturing** — Email Marketing, SMS Marketing
+5. **Conversion** — Appointments & Bookings, Payments & Invoices, Proposals & Quotes, Coupons
+6. **Delivery** — Order Fulfillment, Order Tracking, Courses, Project Manager
+7. **Retention** — Memberships, Gift Cards, Communities, Loyalty Programs
+8. **Advocacy** — Reputation Management, Review Requests, Video Testimonials, Referral Manager
+9. **Reporting & Analytics** — Analytics Dashboard, Call Tracking, Goal Tracking
+
+## Key Features
+
+- Drag-and-drop website and funnel builder
+- 2-way SMS marketing with compliance
+- Email marketing with AI-assisted writing
+- Appointment scheduling and calendar sync
+- Automated workflow builder with triggers and actions
+- Course and membership creation
+- Google and Facebook review management
+- Unified analytics and call tracking
+- CRM with pipeline management
+- Document signing and proposals
+
+## Pricing
+
+- **Starter** — $97/month: Core CRM, funnels, email, SMS, bookings for single-location businesses
+- **Pro** — $297/month: Full feature set including courses, communities, automations, and reputation management
+- **Enterprise** — Custom: Multi-location businesses with dedicated support and advanced controls. Contact sales at https://waitlistlab.com/contact-sales
+
+## Solutions by Industry
+
+Waitlist Lab is tailored for specific types of education businesses:
+
+1. **Online Course Creators** — Sell and host courses with automated student onboarding
+2. **Coaching & Consulting** — Book sessions, manage clients, and scale your practice
+3. **Membership Communities** — Paid memberships with gated content and forums
+4. **Tutoring Centers** — Session scheduling, progress tracking, and parent communication
+5. **Trade & Vocational** — Cohort management, certifications, and enrollment funnels
+6. **K-12 & Private Schools** — Admissions pipelines and parent communication
+7. **Higher Education** — Lead nurture, applicant tracking, and event registration
+8. **Language Schools** — Placement tests, class scheduling, and multilingual comms
+9. **Music & Arts Schools** — Lesson booking, recital tickets, and recurring billing
+10. **Fitness & Training** — Class bookings, memberships, and lead capture funnels
+11. **Dance & Performance** — Term enrollment, performance tickets, and parent portals
+12. **Early Childhood Education** — Waitlist management, daily reports, parent communication, and tuition billing for preschools and daycares
+13. **Sports Academies** — Tryouts, team registration, training scheduling, and tournament management for sports training facilities
+14. **Consulting** — Client booking, engagement tracking, proposals, automated billing, and follow-up automation for consulting and professional services firms
+
+## Getting Started
+
+- 14-day free trial, cancel anytime
+- Sign in at https://app.waitlistlab.com
+- No long-term contracts; cancel anytime
+
+## Links
+
+- [Home](https://waitlistlab.com/)
+- [All Products](https://waitlistlab.com/products)
+- [Solutions](https://waitlistlab.com/solutions)
+- [Online Course Creators](https://waitlistlab.com/solutions/online-course-creators)
+- [Coaching & Consulting](https://waitlistlab.com/solutions/coaching-consulting)
+- [Membership Communities](https://waitlistlab.com/solutions/membership-communities)
+- [Tutoring Centers](https://waitlistlab.com/solutions/tutoring-centers)
+- [Trade & Vocational](https://waitlistlab.com/solutions/trade-vocational)
+- [K-12 & Private Schools](https://waitlistlab.com/solutions/k12-private-schools)
+- [Higher Education](https://waitlistlab.com/solutions/higher-education)
+- [Language Schools](https://waitlistlab.com/solutions/language-schools)
+- [Music & Arts Schools](https://waitlistlab.com/solutions/music-arts-schools)
+- [Fitness & Training](https://waitlistlab.com/solutions/fitness-training)
+- [Dance & Performance](https://waitlistlab.com/solutions/dance-performance)
+- [Early Childhood Education](https://waitlistlab.com/solutions/early-childhood-education)
+- [Sports Academies](https://waitlistlab.com/solutions/sports-academies)
+- [Pricing](https://waitlistlab.com/pricing)
+- [Contact Sales](https://waitlistlab.com/contact-sales)
+- [Sign In](https://app.waitlistlab.com)
+
+## Contact
+
+- Website: https://waitlistlab.com
+- Sales: https://waitlistlab.com/contact-sales
+- App: https://app.waitlistlab.com
